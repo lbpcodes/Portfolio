@@ -129,9 +129,9 @@
 
 ## 🌍 Let's Connect
 
-- 🔗 [LinkedIn](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/plalitha/)
 - 🔗 [Portfolio](#)
-- 🔗 [Medium](#https://medium.com/@plalithasde)
+- 🔗 [Medium](https://medium.com/@plalithasde)
 
 ---
 
