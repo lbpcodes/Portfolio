@@ -130,7 +130,7 @@
 ## 🌍 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/plalitha/)
-- 🔗 [Portfolio](#)
+- 🔗 [Portfolio](https://lalithabp.github.io/LalithaBP/)
 - 🔗 [Medium](https://medium.com/@plalithasde)
 
 ---
