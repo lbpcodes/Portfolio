@@ -131,7 +131,7 @@
 
 - 🔗 [LinkedIn](#)
 - 🔗 [Portfolio](#)
-- 🔗 [Medium](#)
+- 🔗 [Medium](#https://medium.com/@plalithasde)
 
 ---
 
