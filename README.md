@@ -222,6 +222,15 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 
 ---
 
+## 📚 Latest Blog Posts
+
+- 🔐 [Build a Secure Auth System in Spring Boot Using JWT Tokens](https://medium.com/@plalithasde/build-a-secure-auth-system-in-spring-boot-using-jwt-tokens-5b67c18f189f)
+- ☁️ [Contract and BDD testing](https://medium.com/@plalithasde/contract-and-bdd-testing-with-junit-cucumber-and-gherkin-real-world-examples-for-java-ec0c042d1383)
+
+
+
+---
+
 
 ## 🌍 Let's Connect
 
