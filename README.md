@@ -207,7 +207,7 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 
 ## 🌍 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/plalitha/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lbpsde/)
 - 🔗 [Portfolio](https://lalithabp.github.io/LalithaBP/)
 - 🔗 [Medium](https://medium.com/@plalithasde)
 
