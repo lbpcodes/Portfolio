@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalitha Bhavani Palaparthi</h1>
 
 <p align="center">
-  <img src="https://github.com/LalithaBP/LalithaBP/blob/main/profile-pic.png" width="180" />
+  <img src="https://raw.githubusercontent.com/LalithaBP/LalithaBP/main/profile-pic.png" width="180" />
 </p>
 
 <h3 align="center">Java Full Stack Developer | Cloud Enthusiast | Microservices Architect</h3>
