@@ -7,7 +7,7 @@
 <h3 align="center">Java Full Stack Developer | Cloud Enthusiast | Microservices Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=550&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP+%7C+React+%7C+Node.js;Building+Scalable+Microservices;Cloud-Native+Developer;Certified+AWS+Solutions+Architect+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP+%7C+React;Building+Scalable+Microservices;Cloud-Native+Developer;Certified+AWS+Solutions+Architect+%F0%9F%93%9D" alt="Typing SVG" />
 </p>
 
 
@@ -119,7 +119,7 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 </details>
 
 <details>
-  <summary><strong>🔹 Amazon (2021 - 2022)</strong></summary>
+  <summary><strong>🔹 Tata Consultancy Services (2021 - 2022)</strong></summary>
   <br>
   <ul>
     <li>Built PatientApp with React and GraphQL APIs via AWS AppSync.</li>
@@ -174,40 +174,13 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
       </p>
     </td>
     <td width="50%">
-      <h3>🏥 <a href="https://github.com/LalithaBP/patient-intake-app">Patient Intake App</a></h3>
+      <h3>🏥 <a href="https://github.com/LalithaBP/memoryGame.git">Memory-Game</a></h3>
       <p>
-        React + AWS AppSync solution for streamlining patient onboarding. GraphQL, S3, and DynamoDB for serverless backend integration.
+        An interactive memory-matching card game built using React and TypeScript. The objective is to match all pairs of cards with the fewest moves possible. 
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚚 <a href="https://github.com/LalithaBP/smart-delivery">Smart Delivery Tracker</a></h3>
-      <p>
-        Real-time logistics tracking system using Spring Boot, React, and Kafka. Includes live delivery routing and status updates.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💳 <a href="https://github.com/LalithaBP/rewards-dashboard">Rewards Dashboard</a></h3>
-      <p>
-        Loyalty rewards portal built with Vue.js, Node.js, Kafka, and GCP Cloud Run. Designed for performance and scalability.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 <a href="https://github.com/LalithaBP/LalithaBP">Portfolio Website</a></h3>
-      <p>
-        Responsive personal portfolio built using React and GitHub Pages. Showcases experience, projects, and contact details.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📦 <a href="https://github.com/LalithaBP/amazon-locker-system">Amazon Locker System</a></h3>
-      <p>
-        Java-based locker reservation microservice simulating Amazon's locker system. Includes size-based matching and location selection.
-      </p>
-    </td>
-  </tr>
+ 
 </table>
 
 ---
