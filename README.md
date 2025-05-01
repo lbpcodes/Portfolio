@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalitha Bhavani </h1>
+<h1 align="center">Hi 👋, I'm Lalitha Bhavani Palaparthi</h1>
 
 <p align="center">
   <img src="profile-pic.png" width="180" />
