@@ -4,7 +4,7 @@
   <img src="profile-pic.png" width="180" />
 </p>
 
-<h3 align="center">Java Full Stack Developer | Cloud Enthusiast | Microservices Architect</h3>
+<h3 align="center">Full Stack Engineer | Cloud Enthusiast | Microservices Architect</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP+%7C+React;Building+Scalable+Microservices;Cloud-Native+Developer;Certified+AWS+Solutions+Architect+%F0%9F%93%9D" alt="Typing SVG" />
@@ -109,57 +109,27 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 
 <details>
   <summary><strong>🔹 Equifax (2023 - 2025)</strong></summary>
-  <br>
-  <ul>
-    <li>Developed modular Angular micro-frontends and Spring Boot microservices.</li>
-    <li>Integrated GCP services like GKE, Pub/Sub, and Load Balancing.</li>
-    <li>Adopted BDD practices with Cypress; documented APIs with OpenAPI (Swagger).</li>
-    <li>Implemented Helm charts for efficient Kubernetes deployments.</li>
-  </ul>
+
 </details>
 
 <details>
-  <summary><strong>🔹 Tata Consultancy Services (2021 - 2022)</strong></summary>
-  <br>
-  <ul>
-    <li>Built PatientApp with React and GraphQL APIs via AWS AppSync.</li>
-    <li>Orchestrated serverless workflows using AWS Lambda and EKS.</li>
-    <li>Automated CI/CD using AWS CodePipeline and monitored with CloudWatch.</li>
-    <li>Optimized backend storage using DynamoDB and S3.</li>
-  </ul>
+  <summary><strong>🔹 Chewy (2021 - 2023)</strong></summary>
+
 </details>
 
 <details>
   <summary><strong>🔹 IKEA (2020 - 2021)</strong></summary>
-  <br>
-  <ul>
-    <li>Developed Customer Rewards System using Node.js (TypeScript) and Vue.js.</li>
-    <li>Designed event-driven architecture with Apache Kafka.</li>
-    <li>Deployed microservices on GCP Cloud Run and managed infrastructure with Terraform.</li>
-    <li>Followed GitOps principles with Cloud Build and Artifact Registry.</li>
-  </ul>
+
 </details>
 
 <details>
-  <summary><strong>🔹 Texas Capital Bank (2019 - 2020)</strong></summary>
-  <br>
-  <ul>
-    <li>Modernized Loan Origination Systems using Angular 12 and Spring Boot.</li>
-    <li>Built asynchronous microservices communication using Apache Kafka.</li>
-    <li>Managed Kubernetes (GKE) deployments with Jenkins pipelines.</li>
-    <li>Optimized PostgreSQL database schemas for high-throughput operations.</li>
-  </ul>
+  <summary><strong>🔹 Texas Capital Bank (2018 - 2019)</strong></summary>
+
 </details>
 
 <details>
-  <summary><strong>🔹 Shadowfax (2017 - 2018)</strong></summary>
-  <br>
-  <ul>
-    <li>Built Smart Delivery Management System using React, Redux, and Spring Boot.</li>
-    <li>Enhanced delivery tracking and route optimization with PostgreSQL and MongoDB.</li>
-    <li>Secured APIs with OAuth2 and JWT authentication strategies.</li>
-    <li>Deployed services on Azure App Services and integrated Azure SQL Database.</li>
-  </ul>
+  <summary><strong>🔹 Shadowfax (2016 - 2018)</strong></summary>
+
 </details>
 
 
