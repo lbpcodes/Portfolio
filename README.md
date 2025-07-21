@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I am a seasoned Full Stack Engineer with over 8 years of experience driving digital transformation across Finance, Healthcare, and E-Commerce domains. I bring deep expertise in architecting and developing scalable, cloud-native solutions using AWS, GCP, and Azure. My core strengths lie in building robust microservices architectures, implementing event-driven systems, and streamlining CI/CD pipelines using modern DevOps practices. As a certified AWS Solutions Architect (SAA-C03), I am committed to delivering secure, high-performance applications with an emphasis on reliability and maintainability. I am passionate about continuous learning and actively explore advancements in system design, distributed computing, and cloud-native patterns. I enjoy collaborating on complex challenges and welcome discussions on Java, Spring Boot, Microservices, AWS, GCP, or front-end frameworks like React
+I am a seasoned Full Stack Engineer with over 5 years of experience. I bring deep expertise in architecting and developing scalable, cloud-native solutions using AWS, GCP, and Azure. My core strengths lie in building robust microservices architectures, implementing event-driven systems, and streamlining CI/CD pipelines using modern DevOps practices. As a certified AWS Solutions Architect (SAA-C03), I am committed to delivering secure, high-performance applications with an emphasis on reliability and maintainability. I am passionate about continuous learning and actively explore advancements in system design, distributed computing, and cloud-native patterns. I enjoy collaborating on complex challenges and welcome discussions on Java, Spring Boot, Microservices, AWS, GCP, or front-end frameworks like React
 
 ---
 
@@ -113,22 +113,7 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 </details>
 
 <details>
-  <summary><strong>🔹 Chewy (2021 - 2023)</strong></summary>
-
-</details>
-
-<details>
-  <summary><strong>🔹 IKEA (2020 - 2021)</strong></summary>
-
-</details>
-
-<details>
-  <summary><strong>🔹 Texas Capital Bank (2018 - 2019)</strong></summary>
-
-</details>
-
-<details>
-  <summary><strong>🔹 Shadowfax (2016 - 2018)</strong></summary>
+  <summary><strong>🔹 TCS (2019 - 2021)</strong></summary>
 
 </details>
 
@@ -138,13 +123,13 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 <table>
   <tr>
     <td width="50%">
-      <h3>🔐 <a href="https://github.com/LalithaBP/secure-auth-system">Secure Auth System</a></h3>
+      <h3>🔐 <a href="https://github.com/lbpcodes/secure-auth-system">Secure Auth System</a></h3>
       <p>
         Spring Boot-based authentication platform with JWT, role-based access control (RBAC), and secure login/signup flows. Uses OAuth2 and BCrypt.
       </p>
     </td>
     <td width="50%">
-      <h3>🏥 <a href="https://github.com/LalithaBP/memoryGame.git">Memory-Game</a></h3>
+      <h3>🏥 <a href="https://github.com/lbpcodes/memoryGame.git">Memory-Game</a></h3>
       <p>
         An interactive memory-matching card game built using React and TypeScript. The objective is to match all pairs of cards with the fewest moves possible. 
       </p>
@@ -177,9 +162,9 @@ I am a seasoned Full Stack Engineer with over 8 years of experience driving digi
 
 ## 🌍 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lbpsde/)
+- 🔗 [LinkedIn]()
 - 🔗 [Portfolio](https://lalithabp.github.io/LalithaBP/)
-- 🔗 [Medium](https://medium.com/@plalithasde)
+- 🔗 [Medium](https://medium.com/@binaryBeacon)
 
 ---
 
