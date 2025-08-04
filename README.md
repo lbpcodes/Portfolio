@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalitha Bhavani Palaparthi</h1>
 
 <p align="center">
-  <img src="profile-pic.png" width="180" />
+  <img src="pro1.png" width="180" />
 </p>
 
 <h3 align="center">Full Stack Engineer | Cloud Enthusiast | Microservices Architect</h3>
@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I am a seasoned Full Stack Engineer with over 5 years of experience. I bring deep expertise in architecting and developing scalable, cloud-native solutions using AWS, GCP, and Azure. My core strengths lie in building robust microservices architectures, implementing event-driven systems, and streamlining CI/CD pipelines using modern DevOps practices. As a certified AWS Solutions Architect (SAA-C03), I am committed to delivering secure, high-performance applications with an emphasis on reliability and maintainability. I am passionate about continuous learning and actively explore advancements in system design, distributed computing, and cloud-native patterns. I enjoy collaborating on complex challenges and welcome discussions on Java, Spring Boot, Microservices, AWS, GCP, or front-end frameworks like React
+I am a seasoned Full Stack Engineer with 5 years of experience. I bring deep expertise in architecting and developing scalable, cloud-native solutions using AWS, GCP, and Azure. My core strengths lie in building robust microservices architectures, implementing event-driven systems, and streamlining CI/CD pipelines using modern DevOps practices. As a certified AWS Solutions Architect (SAA-C03), I am committed to delivering secure, high-performance applications with an emphasis on reliability and maintainability. I am passionate about continuous learning and actively explore advancements in system design, distributed computing, and cloud-native patterns. I enjoy collaborating on complex challenges and welcome discussions on Java, Spring Boot, Microservices, AWS, GCP, or front-end frameworks like React
 
 ---
 
