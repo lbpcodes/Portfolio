@@ -162,8 +162,8 @@ I am a Software Engineer with 5 years of experience. I bring deep expertise in a
 
 ## 🌍 Let's Connect
 
-- 🔗 [LinkedIn]()
-- 🔗 [Portfolio](https://lalithabp.github.io/LalithaBP/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lalithabp/)
+- 🔗 [Portfolio](https://github.com/lbpcodes/Portfolio)
 - 🔗 [Medium](https://medium.com/@binaryBeacon)
 
 ---
