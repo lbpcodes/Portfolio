@@ -105,17 +105,7 @@ I am a Software Engineer with 5 years of experience. I bring deep expertise in a
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-000000?style=for-the-badge&logo=abtesting&logoColor=white)
 
 ---
-## 💼 Work Experience
 
-<details>
-  <summary><strong>🔹 Equifax (2023 - 2025)</strong></summary>
-
-</details>
-
-<details>
-  <summary><strong>🔹 TCS (2019 - 2021)</strong></summary>
-
-</details>
 
 
 ## 🔧 Featured Projects
